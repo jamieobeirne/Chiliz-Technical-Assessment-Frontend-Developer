@@ -1,7 +1,7 @@
 
 30 Dec 2021
 
-Total time: 3hours 40 minintues. 
+Total time: 3hours 40 minutes.
 
 To improve readability, I used expressive variable names,
 ternary conditionals when possible, succinct notation, and tried to avoid repetition.

@@ -4,7 +4,7 @@
 Total time: 3hours 40 minintues. 
 
 To improve readability, I used expressive variable names,
-ternary conditionals when possible, succinct notation, and tried to avoid repitition.
+ternary conditionals when possible, succinct notation, and tried to avoid repetition.
 
 “Any fool can write code that a computer can understand. 
 Good programmers write code that humans can understand.” 
